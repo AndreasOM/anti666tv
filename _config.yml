@@ -1,1 +1,9 @@
+title: anti666
 theme: jekyll-theme-minimal
+collections:
+  journal_entries:
+    output: true
+    title: Journal Entries
+  streams:
+    output: true
+    title: Streams
