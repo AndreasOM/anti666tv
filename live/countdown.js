@@ -3,7 +3,7 @@ window.addEventListener("load", function () {
   // !! SET YOUR OWN END DATE IN UTC !!
   // YEAR, MONTH, DAY, HOUR, MINUTE, SECOND
   // BEWARE - MONTH IS 0 to 11, JAN = 0 > DEC = 11
-  counter.end = Date.UTC(2020, 03, 10, 18, 00, 0);
+  counter.end = Date.UTC(2020, 03, 10, 14, 00, 0);
 
   // Get the containers
   counter.day = document.getElementById("cd-day");
